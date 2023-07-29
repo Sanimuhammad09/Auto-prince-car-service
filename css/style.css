@@ -261,7 +261,7 @@
 
 }
 
-.team-item:hover .team-overlay {
+/* .team-item:hover .team-overlay {
     transform: scale(1);
 }
 
@@ -273,7 +273,7 @@
 .team-item .team-overlay .btn:hover {
     color: #FFFFFF;
     background: var(--secondary)
-}
+} */
 
 
 /*** Testimonial ***/
