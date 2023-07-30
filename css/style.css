@@ -18,6 +18,15 @@
     z-index: 99;
 }
 
+.bottom {
+    position: fixed;
+    display: none;
+    left: 45px;
+    bottom: 45px;
+    /* z-index: 99; */
+}
+
+
 
 /*** Spinner ***/
 #spinner {
