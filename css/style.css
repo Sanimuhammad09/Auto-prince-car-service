@@ -261,9 +261,9 @@
 
 /*** Team ***/
 .team-item .team-overlay {
-    /* display: flex; */
+    display: flex;
     align-items: center;
-    /* justify-content: center; */
+    justify-content: center;
     background: var(--primary);
     transform: scale(0);
     transition: .5s;
